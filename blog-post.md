@@ -4,7 +4,7 @@ Conocer webpack no sólo te ayudara a mejorar tu experiencia al desarrollar, sin
 
 En este post prepararemos un proyecto que use webpack en conjunto con herramientas modernas como [babel](http://babeljs.io/) y [sass](http://sass-lang.com/), para entender como podemos usar webpack en nuestros propios proyectos.
 
-Si tienes algún problema siguiendo este post o encuentras algo que esté incorrecto, [el repo de este setup está disponible en github](https://github.com/datyayu/intro-a-webpack).
+Si tienes algún problema siguiendo este post o encuentras algo que esté incorrecto, [el repo de este setup está disponible en github](https://github.com/datyayu-xyz/intro-a-webpack).
 
 ### ¿Qué es webpack?
 
@@ -282,7 +282,7 @@ mi-app
   | package.json
 ```
 
-Si te falta algo, puedes checar [el repo de este post](https://github.com/datyayu/intro-a-webpack) para orientarte.
+Si te hace falta algo, puedes checar [el repo de este post](https://github.com/datyayu-xyz/intro-a-webpack) para orientarte.
 
 ### Uso
 
@@ -380,4 +380,4 @@ Y eso es todo. Ahora ya estas listo para trabajar en tu aplicación haciendo uso
 
 ---
 
-El repo con todo el código de este post [está disponible en github](https://github.com/datyayu/intro-a-webpack) para cualquier duda que tengas o mejora que quieras agregar, así que no dudes en hacerlo!
+El repo con todo el código de este post [está disponible en github](https://github.com/datyayu-xyz/intro-a-webpack) para cualquier duda que tengas o mejora que quieras agregar, así que no dudes en hacerlo!
